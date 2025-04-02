@@ -1,0 +1,15 @@
+/workspaces/Assignment_2_Github/Hello-Hiren/bin/Debug/net8.0/Hello-Hiren
+/workspaces/Assignment_2_Github/Hello-Hiren/bin/Debug/net8.0/Hello-Hiren.deps.json
+/workspaces/Assignment_2_Github/Hello-Hiren/bin/Debug/net8.0/Hello-Hiren.runtimeconfig.json
+/workspaces/Assignment_2_Github/Hello-Hiren/bin/Debug/net8.0/Hello-Hiren.dll
+/workspaces/Assignment_2_Github/Hello-Hiren/bin/Debug/net8.0/Hello-Hiren.pdb
+/workspaces/Assignment_2_Github/Hello-Hiren/obj/Debug/net8.0/Hello-Hiren.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Assignment_2_Github/Hello-Hiren/obj/Debug/net8.0/Hello-Hiren.AssemblyInfoInputs.cache
+/workspaces/Assignment_2_Github/Hello-Hiren/obj/Debug/net8.0/Hello-Hiren.AssemblyInfo.cs
+/workspaces/Assignment_2_Github/Hello-Hiren/obj/Debug/net8.0/Hello-Hiren.csproj.CoreCompileInputs.cache
+/workspaces/Assignment_2_Github/Hello-Hiren/obj/Debug/net8.0/Hello-Hiren.sourcelink.json
+/workspaces/Assignment_2_Github/Hello-Hiren/obj/Debug/net8.0/Hello-Hiren.dll
+/workspaces/Assignment_2_Github/Hello-Hiren/obj/Debug/net8.0/refint/Hello-Hiren.dll
+/workspaces/Assignment_2_Github/Hello-Hiren/obj/Debug/net8.0/Hello-Hiren.pdb
+/workspaces/Assignment_2_Github/Hello-Hiren/obj/Debug/net8.0/Hello-Hiren.genruntimeconfig.cache
+/workspaces/Assignment_2_Github/Hello-Hiren/obj/Debug/net8.0/ref/Hello-Hiren.dll

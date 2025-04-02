@@ -1,0 +1,15 @@
+/workspaces/Assignment_2_Github/Razor-Hiren/bin/Debug/net8.0/Razor-Hiren
+/workspaces/Assignment_2_Github/Razor-Hiren/bin/Debug/net8.0/Razor-Hiren.deps.json
+/workspaces/Assignment_2_Github/Razor-Hiren/bin/Debug/net8.0/Razor-Hiren.runtimeconfig.json
+/workspaces/Assignment_2_Github/Razor-Hiren/bin/Debug/net8.0/Razor-Hiren.dll
+/workspaces/Assignment_2_Github/Razor-Hiren/bin/Debug/net8.0/Razor-Hiren.pdb
+/workspaces/Assignment_2_Github/Razor-Hiren/obj/Debug/net8.0/Razor-Hiren.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Assignment_2_Github/Razor-Hiren/obj/Debug/net8.0/Razor-Hiren.AssemblyInfoInputs.cache
+/workspaces/Assignment_2_Github/Razor-Hiren/obj/Debug/net8.0/Razor-Hiren.AssemblyInfo.cs
+/workspaces/Assignment_2_Github/Razor-Hiren/obj/Debug/net8.0/Razor-Hiren.csproj.CoreCompileInputs.cache
+/workspaces/Assignment_2_Github/Razor-Hiren/obj/Debug/net8.0/Razor-Hiren.sourcelink.json
+/workspaces/Assignment_2_Github/Razor-Hiren/obj/Debug/net8.0/Razor-Hiren.dll
+/workspaces/Assignment_2_Github/Razor-Hiren/obj/Debug/net8.0/refint/Razor-Hiren.dll
+/workspaces/Assignment_2_Github/Razor-Hiren/obj/Debug/net8.0/Razor-Hiren.pdb
+/workspaces/Assignment_2_Github/Razor-Hiren/obj/Debug/net8.0/Razor-Hiren.genruntimeconfig.cache
+/workspaces/Assignment_2_Github/Razor-Hiren/obj/Debug/net8.0/ref/Razor-Hiren.dll
